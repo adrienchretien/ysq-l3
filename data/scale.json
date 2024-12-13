@@ -1,0 +1,26 @@
+[
+  {
+    "label": "Entièrement pas d'accord",
+    "value": 1
+  },
+  {
+    "label": "Souvent d'accord.",
+    "value": 2
+  },
+  {
+    "label": "Peu d'accord.",
+    "value": 3
+  },
+  {
+    "label": "Assez d'accord.",
+    "value": 4
+  },
+  {
+    "label": "Souvent d'accord.",
+    "value": 5
+  },
+  {
+    "label": "Entièrement d'accord.",
+    "value": 6
+  }
+]

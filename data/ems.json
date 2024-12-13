@@ -1,0 +1,92 @@
+[
+  {
+    "ysqCode": "ed",
+    "name": "Carence affective",
+    "maxScore": 54
+  },
+  {
+    "ysqCode": "ab",
+    "name": "Abandon",
+    "maxScore": 102
+  },
+  {
+    "ysqCode": "ma",
+    "name": "Méfiance/Abus",
+    "maxScore": 102
+  },
+  {
+    "ysqCode": "si",
+    "name": "Isolement social",
+    "maxScore": 60
+  },
+  {
+    "ysqCode": "ds",
+    "name": "Défectuosité/Honte",
+    "maxScore": 90
+  },
+  {
+    "ysqCode": "fa",
+    "name": "Échec",
+    "maxScore": 54
+  },
+  {
+    "ysqCode": "di",
+    "name": "Dépendance/Incompétence",
+    "maxScore": 90
+  },
+  {
+    "ysqCode": "vu",
+    "name": "Vulnérabilité",
+    "maxScore": 72
+  },
+  {
+    "ysqCode": "eu",
+    "name": "Fusion/Enchevêtrement",
+    "maxScore": 66
+  },
+  {
+    "ysqCode": "sb",
+    "name": "Abnégation",
+    "maxScore": 60
+  },
+  {
+    "ysqCode": "ss",
+    "name": "Sacrifice de soi",
+    "maxScore": 102
+  },
+  {
+    "ysqCode": "ei",
+    "name": "Inhibition émotionnelle",
+    "maxScore": 54
+  },
+  {
+    "ysqCode": "us",
+    "name": "Standards exigeants/Critique excessive",
+    "maxScore": 96
+  },
+  {
+    "ysqCode": "et",
+    "name": "Droits personnels/Grandiosité",
+    "maxScore": 66
+  },
+  {
+    "ysqCode": "is",
+    "name": "Autodiscipline insuffisante",
+    "maxScore": 90
+  },
+  {
+    "ysqCode": "as",
+    "name": "Recherche d'approbation ou de reconnaissance",
+    "maxScore": 84
+  },
+  {
+    "ysqCode": "np",
+    "name": "Négativisme/Pessimisme",
+    "maxScore": 66
+  },
+  {
+    "ysqCode": "pu",
+    "name": "Punitivité",
+    "maxScore": 84
+  }
+]
